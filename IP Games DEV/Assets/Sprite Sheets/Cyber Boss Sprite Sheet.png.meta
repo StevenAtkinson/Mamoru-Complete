@@ -1,0 +1,343 @@
+fileFormatVersion: 2
+guid: f1568a57c234fc94db5093231832256a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1951364146049589483
+    second: Cyber Boss Sprite Sheet_0
+  - first:
+      213: -8369086784067253955
+    second: Cyber Boss Sprite Sheet_1
+  - first:
+      213: 7006983332209237073
+    second: Cyber Boss Sprite Sheet_2
+  - first:
+      213: 8727930225840094198
+    second: Cyber Boss Sprite Sheet_3
+  - first:
+      213: 6869880717132660002
+    second: Cyber Boss Sprite Sheet_4
+  - first:
+      213: 7494214581802856438
+    second: Cyber Boss Sprite Sheet_5
+  - first:
+      213: 3999388395290300097
+    second: Cyber Boss Sprite Sheet_6
+  - first:
+      213: -274713374631984577
+    second: Cyber Boss Sprite Sheet_7
+  - first:
+      213: 1846704710727118236
+    second: Cyber Boss Sprite Sheet_8
+  - first:
+      213: 6225883628184807681
+    second: Cyber Boss Sprite Sheet_9
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cyber Boss Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1372
+        width: 585
+        height: 676
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9366c0215d96cb14ab1550c120857b47
+      internalID: -1951364146049589483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber Boss Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 1355
+        width: 583
+        height: 692
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d5a8c0727708441b0896263d74f59d
+      internalID: -8369086784067253955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber Boss Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 1342
+        width: 586
+        height: 695
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7327b4775cdab8f45be37b7885e4336d
+      internalID: 7006983332209237073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber Boss Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 2122
+        y: 1330
+        width: 586
+        height: 695
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e5550f2befaa84d97e791f53413f1e
+      internalID: 8727930225840094198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber Boss Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 2812
+        y: 1316
+        width: 585
+        height: 694
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d39021907404948aa86ec6be9b26e3
+      internalID: 6869880717132660002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber Boss Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 540
+        width: 585
+        height: 694
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f609d7fd458c7864097a9ea93e231dbd
+      internalID: 7494214581802856438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber Boss Sprite Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 555
+        width: 583
+        height: 692
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df169e75642298c4f840819d33a05905
+      internalID: 3999388395290300097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber Boss Sprite Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 564
+        width: 585
+        height: 695
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520ac119e39cfb94e9258dfd871f6db5
+      internalID: -274713374631984577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber Boss Sprite Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 2122
+        y: 574
+        width: 586
+        height: 694
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b78f25532577e6b4b954d530f1bae1d8
+      internalID: 1846704710727118236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber Boss Sprite Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 2812
+        y: 586
+        width: 585
+        height: 679
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7399cf1d4e371345b3725d1fb36e247
+      internalID: 6225883628184807681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

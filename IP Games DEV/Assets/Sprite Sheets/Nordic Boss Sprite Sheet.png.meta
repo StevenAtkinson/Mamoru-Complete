@@ -1,0 +1,343 @@
+fileFormatVersion: 2
+guid: 235f0c46b1b97e34186b49bb6046d3be
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6974956614837324946
+    second: Nordic Boss Sprite Sheet_0
+  - first:
+      213: 3046009477238892763
+    second: Nordic Boss Sprite Sheet_1
+  - first:
+      213: -1816086318289764451
+    second: Nordic Boss Sprite Sheet_2
+  - first:
+      213: 8341203179687365321
+    second: Nordic Boss Sprite Sheet_3
+  - first:
+      213: 484294728915467606
+    second: Nordic Boss Sprite Sheet_4
+  - first:
+      213: 7221808380209092358
+    second: Nordic Boss Sprite Sheet_5
+  - first:
+      213: -1823543588445474801
+    second: Nordic Boss Sprite Sheet_6
+  - first:
+      213: -8394294851456667474
+    second: Nordic Boss Sprite Sheet_7
+  - first:
+      213: -8615206972737425440
+    second: Nordic Boss Sprite Sheet_8
+  - first:
+      213: 6164013391294893806
+    second: Nordic Boss Sprite Sheet_9
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Nordic Boss Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1775
+        width: 1394
+        height: 1770
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56568f95af84f8443b6316dcfcb0ba0f
+      internalID: -6974956614837324946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nordic Boss Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6
+        width: 1394
+        height: 1769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0257aeb109a8e024f954c004a0bca273
+      internalID: 3046009477238892763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nordic Boss Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 1775
+        width: 1411
+        height: 1770
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9b778d3b65d95459480cb47daebe54
+      internalID: -1816086318289764451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nordic Boss Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 6
+        width: 1421
+        height: 1769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940016aac3d7f9f44a69974fa6c7f848
+      internalID: 8341203179687365321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nordic Boss Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 2805
+        y: 1775
+        width: 1415
+        height: 1769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f40d0cdc93162441a91f8a578c4233b
+      internalID: 484294728915467606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nordic Boss Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 2810
+        y: 6
+        width: 1415
+        height: 1769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72dc1e5a8e912394e95032c99a935c69
+      internalID: 7221808380209092358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nordic Boss Sprite Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 4225
+        y: 1780
+        width: 1410
+        height: 1765
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bffb143705078ef48b8730158e58ba7b
+      internalID: -1823543588445474801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nordic Boss Sprite Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 4225
+        y: 22
+        width: 1414
+        height: 1743
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 124eb029eb821a94fab1513659de7ccd
+      internalID: -8394294851456667474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nordic Boss Sprite Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 5632
+        y: 2
+        width: 1386
+        height: 1771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91cf78ae43d445040a59c072306029fa
+      internalID: -8615206972737425440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nordic Boss Sprite Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 5645
+        y: 1776
+        width: 1373
+        height: 1769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d582ac8c52548a429b00785ad72a5c6
+      internalID: 6164013391294893806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

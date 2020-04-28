@@ -1,0 +1,343 @@
+fileFormatVersion: 2
+guid: 92a740e3d1c04804896a37ff7d3e3771
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4669041538985882621
+    second: Atlantis Boss Sprite Sheet_0
+  - first:
+      213: 8511595375466831156
+    second: Atlantis Boss Sprite Sheet_1
+  - first:
+      213: 4654874268110017046
+    second: Atlantis Boss Sprite Sheet_2
+  - first:
+      213: -8030259273894391192
+    second: Atlantis Boss Sprite Sheet_3
+  - first:
+      213: 2337956282451028003
+    second: Atlantis Boss Sprite Sheet_4
+  - first:
+      213: 6840229383746546998
+    second: Atlantis Boss Sprite Sheet_5
+  - first:
+      213: -6026090503629882723
+    second: Atlantis Boss Sprite Sheet_6
+  - first:
+      213: 199735854335646311
+    second: Atlantis Boss Sprite Sheet_7
+  - first:
+      213: 7135043684999317983
+    second: Atlantis Boss Sprite Sheet_8
+  - first:
+      213: 7088459328622995493
+    second: Atlantis Boss Sprite Sheet_9
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Atlantis Boss Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 773
+        height: 965
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0e5380ddc4c0240b9bfbf6ab32dfaf
+      internalID: -4669041538985882621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlantis Boss Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 965
+        width: 776
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 137175656ed8f8b4a94b6796499289fb
+      internalID: 8511595375466831156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlantis Boss Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 965
+        width: 759
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e151e2f3b347de46ba6ca778507e941
+      internalID: 4654874268110017046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlantis Boss Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 4
+        width: 759
+        height: 959
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed4bebd214414042b7bd2c5b6f3f5ab
+      internalID: -8030259273894391192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlantis Boss Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 965
+        width: 767
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7622a49a116dbf14da71dec84004025d
+      internalID: 2337956282451028003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlantis Boss Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 4
+        width: 782
+        height: 961
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53998ca3bebcef846847dac9ed2b79ee
+      internalID: 6840229383746546998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlantis Boss Sprite Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 2308
+        y: 0
+        width: 762
+        height: 965
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b33fd6759eebfa849ac0e9af305c68a2
+      internalID: -6026090503629882723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlantis Boss Sprite Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 2302
+        y: 965
+        width: 765
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79328328b1592374cadd01b43ff06de5
+      internalID: 199735854335646311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlantis Boss Sprite Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 3070
+        y: 965
+        width: 761
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaefa33f940cd6e4cb29bbd9fd0b484e
+      internalID: 7135043684999317983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlantis Boss Sprite Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 3070
+        y: 5
+        width: 763
+        height: 961
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0debf847d26fad74991a5c3393e1dd7b
+      internalID: 7088459328622995493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

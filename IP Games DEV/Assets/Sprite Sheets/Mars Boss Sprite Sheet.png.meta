@@ -1,0 +1,343 @@
+fileFormatVersion: 2
+guid: 49f8aa2b911962b418c22e8d3019b124
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3656733787685573071
+    second: Mars Boss Sprite Sheet_0
+  - first:
+      213: -8711641776391235066
+    second: Mars Boss Sprite Sheet_1
+  - first:
+      213: -7508598699347737412
+    second: Mars Boss Sprite Sheet_2
+  - first:
+      213: 2935422520536680952
+    second: Mars Boss Sprite Sheet_3
+  - first:
+      213: -1465171350047409355
+    second: Mars Boss Sprite Sheet_4
+  - first:
+      213: -4610714947200880910
+    second: Mars Boss Sprite Sheet_5
+  - first:
+      213: 2756911059859347440
+    second: Mars Boss Sprite Sheet_6
+  - first:
+      213: -6234090797335258536
+    second: Mars Boss Sprite Sheet_7
+  - first:
+      213: -3888592870326794589
+    second: Mars Boss Sprite Sheet_8
+  - first:
+      213: 9108344992345807270
+    second: Mars Boss Sprite Sheet_9
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mars Boss Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 15
+        width: 958
+        height: 1934
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efeca0929a1b80047982f6e852917bd4
+      internalID: 3656733787685573071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mars Boss Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 3
+        width: 982
+        height: 1940
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad950a553174f94ab523ba2ff5767ad
+      internalID: -8711641776391235066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mars Boss Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1949
+        width: 1000
+        height: 1833
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25438b4cc1e824841b30d431afb1b3fb
+      internalID: -7508598699347737412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mars Boss Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1961
+        width: 958
+        height: 1824
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221ff2419f6f3ac45b6e6d0a87d187a4
+      internalID: 2935422520536680952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mars Boss Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1958
+        y: 1967
+        width: 1024
+        height: 1815
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e185f579dcf544b9346fe05533c88f
+      internalID: -1465171350047409355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mars Boss Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 2982
+        y: 1967
+        width: 982
+        height: 1818
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15330d7c776c9dd48b33c6e5cdd8620a
+      internalID: -4610714947200880910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mars Boss Sprite Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 3964
+        y: 1973
+        width: 988
+        height: 1803
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2bf1510cff400d48af15eb49ccd137f
+      internalID: 2756911059859347440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mars Boss Sprite Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 4964
+        y: 1967
+        width: 1000
+        height: 1818
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1970646afe0323043a0743ec7e6b15c5
+      internalID: -6234090797335258536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mars Boss Sprite Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 5970
+        y: 1967
+        width: 964
+        height: 1818
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b432c2b122e01448697ccb4dd24593
+      internalID: -3888592870326794589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mars Boss Sprite Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 6946
+        y: 1967
+        width: 983
+        height: 1818
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f97f36e8a455e418bb442aee0f2d88
+      internalID: 9108344992345807270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
